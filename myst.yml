@@ -25,10 +25,10 @@ project:
   toc:
     - file: index
     - file: syllabus
-    - file: calendar
-    - file: data
-    - file: unit1
-    - file: unit2
+    #- file: calendar
+    #- file: data
+    #- file: unit1
+    #- file: unit2
 site:
   template: book-theme
   title: "Stat 201b"
